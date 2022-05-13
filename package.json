@@ -2,7 +2,7 @@
   "name": "skpm-publish-issue",
   "description": "This is just a test",
   "repository": "https://github.com/bomberstudios/skpm-publish-issue.git",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "sketch": ">=49.0"
   },
